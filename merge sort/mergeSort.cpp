@@ -1,4 +1,5 @@
 #include<iostream>
+#include<vector>
 using namespace std;
 
 int merge(vector<int>& arr, int left, int mid, int right){
